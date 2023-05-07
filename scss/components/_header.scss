@@ -1,0 +1,16 @@
+.navbar {
+    background-color: $color-principal;
+    color: $color-secundario;
+    .nav-link {
+        text-decoration: none;
+        font-size: large;
+        color: $color-secundario;
+      }
+      .navbar-toggler-icon {
+        color: $color-secundario;
+      }
+    }
+  
+ 
+  
+  
