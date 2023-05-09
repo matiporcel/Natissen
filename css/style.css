@@ -81,6 +81,11 @@ footer {
   border-radius: 5px;
 }
 
+.container-products .item img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+
 .producto-info {
   margin-left: 20px;
   margin-right: 20px;
