@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    .recipe {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media only screen and (max-width: 1200px) {
+    section .contactForm {
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+  }
