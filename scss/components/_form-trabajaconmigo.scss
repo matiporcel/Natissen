@@ -24,7 +24,6 @@ section .contactForm {
         }
       }
     }
-
   }
   .info .textBox {
     display: flex;
@@ -44,25 +43,21 @@ section .contactForm {
       }
     }
   }
+}
 
-  }
-  
-  .contactImg {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    width: 85%;
-  }
+.contactImg {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 85%;
+}
 .texto h2 {
   text-decoration: underline;
   font-weight: bold;
 }
 .texto p {
   font-size: x-large;
+  text-align: left;
 }
-
-
-
-

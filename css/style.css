@@ -155,6 +155,7 @@ section .contactForm .info .textBox .infoContact p {
 
 .texto p {
   font-size: x-large;
+  text-align: left;
 }
 
 @media (max-width: 600px) {
