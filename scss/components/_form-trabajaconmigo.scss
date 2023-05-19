@@ -12,7 +12,7 @@ section .contactForm {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 85%;
+    width: 90%;
     form {
       width: 100%;
       .inputBox {
@@ -52,6 +52,7 @@ section .contactForm {
   align-items: center;
   flex-direction: column;
   width: 85%;
+  padding-bottom: 20px;
 }
 .texto h2 {
   text-decoration: underline;

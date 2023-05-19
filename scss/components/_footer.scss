@@ -1,3 +1,21 @@
 footer {
     background-color: $color-principal;
+
+
+    .instagram-float {
+      color: white;
+      padding-right: 15px;
+
+      :hover {
+        transform: scale(1.5);
+        transition: 0.2s;
+      }
+    }
+    .facebook-float {
+      color: white;
+      :hover {
+        transform: scale(1.5);
+        transition: 0.2s;
+      }
+    }
   }
