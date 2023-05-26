@@ -205,6 +205,19 @@ section .contactForm .info .textBox .infoContact p {
   text-align: left;
 }
 
+.container h3 {
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: "Righteous", cursive;
+}
+.container h5 {
+  text-decoration: underline;
+  font-family: "Righteous", cursive;
+}
+.container li {
+  font-family: "Righteous", cursive;
+}
+
 @media (max-width: 600px) {
   .recipe {
     grid-template-columns: 1fr;
